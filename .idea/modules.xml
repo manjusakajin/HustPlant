@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HustPlant.iml" filepath="$PROJECT_DIR$/HustPlant.iml" />
+      <module fileurl="file://C:\Users\sakur\Documents\HustPlant1\HustPlant.iml" filepath="C:\Users\sakur\Documents\HustPlant1\HustPlant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HustPlant1.iml" filepath="$PROJECT_DIR$/HustPlant1.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
