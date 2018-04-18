@@ -21,6 +21,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".HistoryActivity"
+            android:theme="@style/AppTheme.Setting">
+        </activity>
         <activity android:name=".Setting.Setting"
             android:theme="@style/AppTheme.Setting">
         </activity>
